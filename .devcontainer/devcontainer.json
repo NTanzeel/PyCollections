@@ -1,0 +1,10 @@
+{
+    "name": "Python Collections",
+    "image": "python",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+    },
+    "extensions": [
+        "ms-python.python",
+    ],
+}
